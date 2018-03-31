@@ -1,3 +1,3 @@
 # hello-world
-Aprendiendo
+Aprendiendo \n
 Esta es una edición de mi README.md file
